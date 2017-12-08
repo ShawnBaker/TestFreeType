@@ -10,7 +10,7 @@ containing the following architectures:
 - x86_64
 - arm64
 
-It then adds the **libfreetype.a** file to the project according to the instructions on this Xamarin page:
+It includes the **libfreetype.a** file in the project according to the instructions on this Xamarin page:
 
    https://developer.xamarin.com/guides/ios/advanced_topics/native_interop/
 
