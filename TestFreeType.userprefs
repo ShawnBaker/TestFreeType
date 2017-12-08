@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F79EE1FA-9735-493A-BCAF-C7E5990FC4CF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewController.cs">
+    <Files>
+      <File FileName="build_freetype.sh" Line="17" Column="67" />
+      <File FileName="ViewController.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestFreeType PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.86866457349fcd9afb46f446270167d369795ad9" HideGettingStarted="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TestFreeType>
+  <MultiItemStartupConfigurations />
+</Properties>
